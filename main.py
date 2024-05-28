@@ -246,7 +246,7 @@ class FinanceiroApp(QMainWindow):
         self.estilizar_botoes({
             adicionar_button: '#4CAF50',  # Verde
             atualizar_button: '#2196F3',  # Azul
-            resumo_button: '#FFC002',    # Amarelo
+            resumo_button: '#ffbb2f',    # Amarelo
             apagar_button: '#F44336',    # Vermelho
             exportar_excel_button: '#8BC34A',  # Verde claro
             exportar_pdf_button: '#FF5722',    # Laranja
