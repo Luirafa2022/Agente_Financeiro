@@ -10,6 +10,7 @@ from PyQt5.QtGui import QIcon, QFont
 from matplotlib.figure import Figure
 from matplotlib.backends.backend_qt5agg import FigureCanvasQTAgg as FigureCanvas
 import matplotlib.dates as mdates
+import openpyxl
 
 # Configuração do banco de dados
 conn = sqlite3.connect('financas.db')
